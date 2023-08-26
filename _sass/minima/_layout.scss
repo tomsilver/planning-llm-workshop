@@ -361,7 +361,11 @@ details {
   cursor: pointer;
   border: 2px solid black;
   outline: #4CAF50 solid 10px;
-  margin-top: 25px;  
+  margin: 25px 0px 25px 0px;  
   padding: 10px;
   text-align: left;
+}
+
+h4 {
+  margin-top: $spacing-unit;
 }

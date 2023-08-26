@@ -47,3 +47,28 @@ On the day of the event, make sure you have a team to manage different aspects, 
 <br><br>Remember to document the proceedings and share them with participants afterward, and perhaps consider publishing a summary or report to reach a wider audience and contribute to the field.
 
 </details>
+
+#### Overview
+
+<p>
+<strong>Large Language Models (LLMs) are a disruptive force</strong>, changing how research was done in many sub-areas of AI. Planning is one of the last bastions that remain standing. The focus of this workshop is on the questions in the intersection of these areas. Some of the specific areas we would like to gain a better understanding in include: what LLMs can contribute to planning, how LLMs can/should be used, what are the pitfalls of using LLMs, what are the guarantees that can be obtained.
+</p>
+
+#### Workshop Topics
+
+<p>
+<strong>We are welcoming paper submissions on the following topics:</strong>
+</p>
+<ul>
+        <li>Planning directly with pre-trained or fine-tuned LLMs.</li>
+        <li>LLMs for (partial) model elicitation.</li>
+        <li>LLMs for search guidance or search pruning.</li>
+        <li>Validation/verification of plans, policies, or models.</li> 
+        <li>Generalization in planning with LLMs.</li>
+        <li>Planning for LLMs.</li>
+        <li>Using LLMs to develop interfaces for planning-based systems.</li>
+        <li>Using LLMs as a proxy for user preferences.</li>
+</ul>
+
+#### Call for Papers
+<p>Coming Soon!</p>
