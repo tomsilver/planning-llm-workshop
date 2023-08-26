@@ -6,8 +6,8 @@ sequence_id: 0
 speaker: Organizers
 
 # Title of the event
-title: Opening remarks
+title: Coming soon!
 
 # Time of the event
-time: 0900 - 0915
+time: TBD
 ---

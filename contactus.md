@@ -4,4 +4,4 @@ title: Contact Us
 permalink: /contactus/
 ---
 
-Here's how you can contact us ...
+Please contact <a href="mailto:tomssilver@gmail.com">tomssilver@gmail.com</a> for inquiries.
