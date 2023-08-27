@@ -11,7 +11,7 @@ affil: Massachusetts Institute of Technology and University of Toronto
 affil_link: https://people.csail.mit.edu/lishuang/
 
 # An image of the speaker (square aspect ratio works the best) (place in the `assets/img/speakers` directory)
-img: shuang.png
+img: shuang.jpg
 
 ---
 
